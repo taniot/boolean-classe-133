@@ -1,0 +1,14 @@
+.red {
+  color: red;
+  font-size: 100px;
+}
+
+.blue {
+  color: blue;
+  font-size: 50px;
+}
+
+.color {
+  color: green;
+  background-color: coral;
+}
